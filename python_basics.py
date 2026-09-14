@@ -1,2 +1,0 @@
-#Simple Greeting 
-print("hello")
