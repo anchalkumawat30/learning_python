@@ -1,0 +1,2 @@
+#Simple Greeting 
+print("hello")
