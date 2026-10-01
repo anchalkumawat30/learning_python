@@ -8,8 +8,8 @@ n = int(input("How many number : "))
 for i in range(n):
      value = int(input("Enter a number : "))
      num.append(value)
-print(num)
+print("The List is = ",num)
 
 # input without using itereter 
-name = input("Enter name : ").spit()
-print (name)
+name = input("Enter name : ").split()
+print("How many number : ",name)
